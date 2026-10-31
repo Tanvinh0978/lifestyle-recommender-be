@@ -1,0 +1,192 @@
+{
+  "users": [
+    {
+      "name": "Nguyễn Văn An",
+      "email": "an.demo@lifestyle.pro",
+      "height": 172,
+      "weight": 66,
+      "gender": "Nam",
+      "plan": "FREE",
+      "ai_usage_count": 1,
+      "last_usage_date": "2026-10-25"
+    },
+    {
+      "name": "Nguyễn Văn A",
+      "email": "ad@ad.com",
+      "height": 172,
+      "weight": 66,
+      "gender": "Nam",
+      "plan": "FREE",
+      "last_usage_date": "2026-10-25",
+      "ai_usage_count": 0
+    },
+    {
+      "name": "Mai Linh",
+      "email": "mailinh.lifestyle@gmail.com",
+      "height": 163,
+      "weight": 51,
+      "gender": "Nữ",
+      "plan": "PRO",
+      "last_usage_date": "",
+      "ai_usage_count": 0
+    }
+  ],
+  "wardrobe_items": [
+    {
+      "id": "6",
+      "user_email": "ad@ad.com",
+      "name": "Đồng hồ dây da",
+      "category": "Phụ kiện",
+      "color": "Nâu cà phê",
+      "image_url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=500&auto=format&fit=crop&q=80",
+      "created_at": "2026-10-25T15:38:01.485Z"
+    },
+    {
+      "id": "6",
+      "user_email": "ad@ad.com",
+      "name": "Đồng hồ dây da",
+      "category": "Phụ kiện",
+      "color": "Nâu cà phê",
+      "image_url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=500&auto=format&fit=crop&q=80",
+      "created_at": "2026-10-25T15:38:01.482Z"
+    },
+    {
+      "id": "5",
+      "user_email": "ad@ad.com",
+      "name": "Giày Sneaker trắng",
+      "category": "Giày dép",
+      "color": "Trắng",
+      "image_url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500&auto=format&fit=crop&q=80",
+      "created_at": "2026-10-25T15:38:01.472Z"
+    },
+    {
+      "id": "5",
+      "user_email": "ad@ad.com",
+      "name": "Giày Sneaker trắng",
+      "category": "Giày dép",
+      "color": "Trắng",
+      "image_url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500&auto=format&fit=crop&q=80",
+      "created_at": "2026-10-25T15:38:01.465Z"
+    },
+    {
+      "id": "4",
+      "user_email": "ad@ad.com",
+      "name": "Quần Tây âu công sở",
+      "category": "Quần/Váy",
+      "color": "Đen xám",
+      "image_url": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=500&auto=format&fit=crop&q=80",
+      "created_at": "2026-10-25T15:38:01.460Z"
+    },
+    {
+      "id": "4",
+      "user_email": "ad@ad.com",
+      "name": "Quần Tây âu công sở",
+      "category": "Quần/Váy",
+      "color": "Đen xám",
+      "image_url": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=500&auto=format&fit=crop&q=80",
+      "created_at": "2026-10-25T15:38:01.443Z"
+    },
+    {
+      "id": "3",
+      "user_email": "ad@ad.com",
+      "name": "Quần Jeans Slimfit",
+      "category": "Quần/Váy",
+      "color": "Xanh Jeans",
+      "image_url": "https://images.unsplash.com/photo-1542272604-780c96856592?w=500&auto=format&fit=crop&q=80",
+      "created_at": "2026-10-25T15:38:01.431Z"
+    },
+    {
+      "id": "3",
+      "user_email": "ad@ad.com",
+      "name": "Quần Jeans Slimfit",
+      "category": "Quần/Váy",
+      "color": "Xanh Jeans",
+      "image_url": "https://images.unsplash.com/photo-1542272604-780c96856592?w=500&auto=format&fit=crop&q=80",
+      "created_at": "2026-10-25T15:38:01.425Z"
+    },
+    {
+      "id": "2",
+      "user_email": "ad@ad.com",
+      "name": "Áo thun đen tối giản",
+      "category": "Áo",
+      "color": "Đen",
+      "image_url": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=500&auto=format&fit=crop&q=80",
+      "created_at": "2026-10-25T15:38:01.415Z"
+    },
+    {
+      "id": "2",
+      "user_email": "ad@ad.com",
+      "name": "Áo thun đen tối giản",
+      "category": "Áo",
+      "color": "Đen",
+      "image_url": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=500&auto=format&fit=crop&q=80",
+      "created_at": "2026-10-25T15:38:01.404Z"
+    },
+    {
+      "id": "1",
+      "user_email": "ad@ad.com",
+      "name": "Áo sơ mi Oxford",
+      "category": "Áo",
+      "color": "Trắng",
+      "image_url": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=500&auto=format&fit=crop&q=80",
+      "created_at": "2026-10-25T15:38:01.392Z"
+    },
+    {
+      "id": "1",
+      "user_email": "ad@ad.com",
+      "name": "Áo sơ mi Oxford",
+      "category": "Áo",
+      "color": "Trắng",
+      "image_url": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=500&auto=format&fit=crop&q=80",
+      "created_at": "2026-10-25T15:38:01.373Z"
+    },
+    {
+      "id": "1",
+      "user_email": "an.demo@lifestyle.pro",
+      "name": "Áo sơ mi Oxford",
+      "category": "Áo",
+      "color": "Trắng",
+      "image_url": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=500&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "2",
+      "user_email": "an.demo@lifestyle.pro",
+      "name": "Áo thun đen tối giản",
+      "category": "Áo",
+      "color": "Đen",
+      "image_url": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=500&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "3",
+      "user_email": "an.demo@lifestyle.pro",
+      "name": "Quần Jeans Slimfit",
+      "category": "Quần/Váy",
+      "color": "Xanh Jeans",
+      "image_url": "https://images.unsplash.com/photo-1542272604-780c96856592?w=500&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "4",
+      "user_email": "an.demo@lifestyle.pro",
+      "name": "Quần Tây âu công sở",
+      "category": "Quần/Váy",
+      "color": "Đen xám",
+      "image_url": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=500&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "5",
+      "user_email": "an.demo@lifestyle.pro",
+      "name": "Giày Sneaker trắng",
+      "category": "Giày dép",
+      "color": "Trắng",
+      "image_url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "6",
+      "user_email": "an.demo@lifestyle.pro",
+      "name": "Đồng hồ dây da",
+      "category": "Phụ kiện",
+      "color": "Nâu cà phê",
+      "image_url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=500&auto=format&fit=crop&q=80"
+    }
+  ]
+}
